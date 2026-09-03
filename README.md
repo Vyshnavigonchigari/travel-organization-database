@@ -32,6 +32,10 @@ Many-to-many relationships are implemented using junction tables such as:
 - package_hotels
 - package_flights
 
+## ER Diagram
+
+![Travel Organization Database ER Diagram](docs/travel_organization_database_er_diagram.png)
+
 ## Tables
 
 | Table | Description |
